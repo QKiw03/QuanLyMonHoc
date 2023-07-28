@@ -1,3 +1,3 @@
 ## Windows application built by Java20
-## Used to review OOP, Exception,... in JavaCore
+## Used to review OOP, Exception,Java Swing... in JavaCore
 
